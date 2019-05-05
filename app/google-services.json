@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414205670997",
+    "firebase_url": "https://semka-insta.firebaseio.com",
+    "project_id": "semka-insta",
+    "storage_bucket": "semka-insta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414205670997:android:3b9cd6b861f6e421",
+        "android_client_info": {
+          "package_name": "com.example.egoeu.semka_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414205670997-cc6adfs6l1c6t6929n444padvctunocj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egoeu.semka_insta",
+            "certificate_hash": "0987589c39a18595dc4bb709d5ea0cbdd16a2609"
+          }
+        },
+        {
+          "client_id": "414205670997-mb1tjuhjoeu6v4cjnc96kpj89g6c5iqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNFtBo-tYnBpCZfGF7pJYs-_aEwJPBM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414205670997-mb1tjuhjoeu6v4cjnc96kpj89g6c5iqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

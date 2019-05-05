@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#178FF8</color>
+    <color name="hlavna">#178FF8</color>
+    <color name="colorPrimaryDark">#DDDDDF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tlacidla">#FD5334</color>
+    <color name="vedlajsia">#FAFAFA</color>
+
+</resources>

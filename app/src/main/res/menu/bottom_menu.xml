@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/prispevkyvsetkych"
+        android:title="Nástenka" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/mojeprispevky"
+        android:title="Moje príspevky"
+        />
+    <item
+        android:id="@+id/favourite"
+        android:icon="@drawable/oblubeneprispevky"
+        android:title="Oblúbené" />
+
+</menu>
